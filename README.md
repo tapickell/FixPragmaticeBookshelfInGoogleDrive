@@ -9,8 +9,11 @@ When the ebooks finished syncing however there is an issue with the
 filenames.
 
 I would get
+
 `Programming Erlang (2nd edition).epub20160716-29016-114uvrl`
+
 instead of
+
 `Programming Erlang (2nd edition).epub`
 
 I am still uncertain if this issue is with Google Drive or the Pragmatic
