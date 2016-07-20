@@ -30,4 +30,5 @@ Erlang](http://learnyousomeerlang.com/) when I encountered this issue
 and saw an opportinuty to use Erlang to solve a problem.
 
 Isn't using Erlang overkill for such a simple file renaming script?
+
 Yes... yes it is.
